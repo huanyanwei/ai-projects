@@ -1,3 +1,8 @@
+'''
+Input: Raw normal and malicious labelled csv data
+Output: train and test csv based on proportion
+'''
+
 import pandas as pd
 import csv
 from sklearn.model_selection import train_test_split
