@@ -8,7 +8,7 @@ Normal Logs:
 
 Malicious Logs :
 1. Injecting <code>/xss-payload-list-master/Intruder/xss-payload.txt</code> (from https://github.com/payloadbox/xss-payload-list)
-2. Injecting <code>XSS_2.txt</code> (from https://github.com/payloadbox/xss-payload-list/readme.md)
+2. Injecting <code>XSS_2.txt</code> (from https://github.com/payloadbox/xss-payload-list/README.md)
 3. Injecting <code>/usr/share/wordlists/wfuzz/Injections/XSS.txt</code>
 
 
